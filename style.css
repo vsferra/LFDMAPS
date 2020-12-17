@@ -1,0 +1,23 @@
+body {
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    
+}
+
+.main-title {
+    color: rgb(0, 0, 255); background-color: red;
+    text-align: center;
+    }
+
+.map-btn {
+    color: red;
+    border-radius: 10px;
+    text-size-adjust: 20px;
+}
+
+.map-link {
+    display: block;
+    color: red; background-color: lightgray;
+    text-size-adjust: 20px;
+}
